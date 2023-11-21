@@ -52,8 +52,8 @@ class TestAdd:
     '''function add()'''
 
     def test_add(self):
-        '''calculates 45 + 55 = 100'''
-        assert(add(45, 55) == 100)
+        '''calculates 50+ 50 = 100'''
+        assert(add(50, 50) == 100)
 
 class TestHalve:
     '''function halve()'''
